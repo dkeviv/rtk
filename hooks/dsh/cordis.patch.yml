@@ -1,0 +1,5 @@
+- insert:
+    - id: rtk-dsh
+      name: '@dkeviv/rtk-dsh'
+      config:
+        enabled: true
